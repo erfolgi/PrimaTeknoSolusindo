@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Prima Tekno Solusindo</string>
+    <string name="title_activity_drawer">DrawerActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello">Hello</string>
+    <string name="home">Home</string>
+    <string name="services">Services</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="beranda">Beranda</string>
+    <string name="layanan">Layanan</string>
+    <string name="tentang_kami">Tentang kami</string>
+    <string name="hubungi_kami">Hubungi kami</string>
+    <string name="visi">VISI</string>
+    <string name="visi_content">Menjadi mitra kerja terbaik untuk memberikan yang paling baik dalam memberikan solusi pada setiap permasalahan bidang teknologi informasi bagi Indonesia.</string>
+    <string name="misi">MISI</string>
+    <string name="misi_content">1.\tMengakomodasi kebutuhan, sumber daya, dan tujuan yang diinginkan pelanggan \n2.\tMenciptakan masyarakat cerdas melalui produk-produk TI yang digunakan sehari-hari \n3.\tBerpartisipasi aktif dalam komunitas global untuk membangun industri kreatif digital</string>
+    <string name="misi_1">Mengakomodasi kebutuhan, sumber daya, dan tujuan yang diinginkan pelanggan</string>
+    <string name="misi_2">Menciptakan masyarakat cerdas melalui produk-produk TI yang digunakan sehari-hari</string>
+    <string name="misi_3">Berpartisipasi aktif dalam komunitas global untuk membangun industri kreatif digital</string>
+
+    <string name="alamat_kami">Alamat Kami</string>
+    <string name="alamat_content">Jl. Wiguna Selatan Indah V No. 1 Surabaya, Jawa Timur</string>
+    <string name="app_first_run">first</string>
+    <string name="wa">WA : +62–852–3012–3666</string>
+    <string name="email">Email : firzaprima@gmail.com</string>
+    <string name="_1">1.</string>
+    <string name="_2">2.</string>
+    <string name="_3">3.</string>
+
+    <string-array name="konsultan">
+        <item>Tata Kelola IT</item>
+        <item>Audit IT</item>
+        <item>Manajemen Proyek IT</item>
+    </string-array>
+
+    <string-array name="pengadaan">
+        <item>Pengadaan UPS</item>
+        <item>Pengadaan Server</item>
+        <item>Pengadaan WiFi</item>
+        <item>Pengadaan ERP</item>
+        <item>Pengadaan SI</item>
+        <item>Pengadaan Web Profile</item>
+    </string-array>
+</resources>

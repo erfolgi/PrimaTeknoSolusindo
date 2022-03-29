@@ -1,0 +1,33 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/one" android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home"
+            android:title="@string/beranda" />
+        <item
+            android:id="@+id/nav_services"
+            android:icon="@drawable/service"
+            android:title="@string/layanan" />
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/about"
+            android:title="@string/tentang_kami" />
+    </group>
+    <item android:title="@string/hubungi_kami">
+
+        <group
+            android:checkableBehavior="single"
+            android:title="@string/hubungi_kami">
+            <item
+                android:id="@+id/email"
+                android:icon="@drawable/email"
+                android:title="Email" />
+            <item
+                android:id="@+id/whatsapp"
+                android:icon="@drawable/whatsapp"
+                android:title="Whatsapp" />
+        </group>
+    </item>
+
+
+</menu>
